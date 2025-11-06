@@ -1,0 +1,104 @@
+
+gong_ji.png
+size: 1464,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg0002
+  rotate: false
+  xy: 730, 4
+  size: 126, 162
+  orig: 194, 174
+  offset: 62, 5
+  index: -1
+dg0003
+  rotate: true
+  xy: 2, 9
+  size: 157, 148
+  orig: 194, 174
+  offset: 31, 25
+  index: -1
+dg0004
+  rotate: true
+  xy: 1117, 11
+  size: 155, 113
+  orig: 194, 174
+  offset: 31, 60
+  index: -1
+dg0005
+  rotate: true
+  xy: 858, 5
+  size: 161, 122
+  orig: 194, 174
+  offset: 25, 51
+  index: -1
+dg0006
+  rotate: true
+  xy: 298, 2
+  size: 164, 137
+  orig: 194, 174
+  offset: 17, 35
+  index: -1
+dg0007
+  rotate: true
+  xy: 152, 9
+  size: 157, 144
+  orig: 194, 174
+  offset: 17, 26
+  index: -1
+dg0008
+  rotate: true
+  xy: 437, 18
+  size: 148, 146
+  orig: 194, 174
+  offset: 17, 24
+  index: -1
+dg0009
+  rotate: false
+  xy: 585, 18
+  size: 143, 148
+  orig: 194, 174
+  offset: 18, 22
+  index: -1
+dg0010
+  rotate: false
+  xy: 982, 19
+  size: 133, 147
+  orig: 194, 174
+  offset: 17, 23
+  index: -1
+dg0011
+  rotate: false
+  xy: 1232, 21
+  size: 102, 145
+  orig: 194, 174
+  offset: 16, 22
+  index: -1
+dg0012
+  rotate: true
+  xy: 1336, 100
+  size: 66, 126
+  orig: 194, 174
+  offset: 16, 21
+  index: -1
+dg0013
+  rotate: true
+  xy: 1336, 43
+  size: 55, 116
+  orig: 194, 174
+  offset: 16, 22
+  index: -1
+dg0014
+  rotate: true
+  xy: 1336, 13
+  size: 28, 74
+  orig: 194, 174
+  offset: 16, 25
+  index: -1
+dg0015
+  rotate: true
+  xy: 1412, 17
+  size: 24, 48
+  orig: 194, 174
+  offset: 18, 26
+  index: -1

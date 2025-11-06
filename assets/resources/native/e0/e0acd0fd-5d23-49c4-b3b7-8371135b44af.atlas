@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 376,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Circle/Swirl
+  rotate: true
+  xy: 2, 2
+  size: 104, 105
+  orig: 128, 128
+  offset: 12, 11
+  index: -1
+Circle/Swirl02
+  rotate: false
+  xy: 109, 2
+  size: 102, 104
+  orig: 128, 128
+  offset: 15, 11
+  index: -1
+Circle/Swirl03
+  rotate: false
+  xy: 215, 16
+  size: 112, 107
+  orig: 128, 128
+  offset: 7, 9
+  index: -1
+Circle/ji
+  rotate: false
+  xy: 2, 108
+  size: 211, 205
+  orig: 212, 205
+  offset: 0, 0
+  index: -1
+Circle/ji_1
+  rotate: false
+  xy: 215, 125
+  size: 159, 188
+  orig: 159, 188
+  offset: 0, 0
+  index: -1
